@@ -1,0 +1,2 @@
+[endstone]
+staffgui = staffgui.plugin:StaffGUIPlugin

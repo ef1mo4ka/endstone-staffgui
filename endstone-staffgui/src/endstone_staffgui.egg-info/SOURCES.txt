@@ -1,0 +1,9 @@
+pyproject.toml
+src/endstone_staffgui.egg-info/PKG-INFO
+src/endstone_staffgui.egg-info/SOURCES.txt
+src/endstone_staffgui.egg-info/dependency_links.txt
+src/endstone_staffgui.egg-info/entry_points.txt
+src/endstone_staffgui.egg-info/requires.txt
+src/endstone_staffgui.egg-info/top_level.txt
+src/staffgui/__init__.py
+src/staffgui/plugin.py
